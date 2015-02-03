@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>269015ED-EDF0-474F-8BE1-278A1E218478</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Autolayout</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>89db6868-35f9-1f10-6e2d-ce57b7db7bff</key>
+		<string>https://github.com/chancier/NativeAutolayout.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>trunk/Autolayout/Autolayout.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>89db6868-35f9-1f10-6e2d-ce57b7db7bff</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>89db6868-35f9-1f10-6e2d-ce57b7db7bff</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>89db6868-35f9-1f10-6e2d-ce57b7db7bff</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NativeAutolayout.git</string>
+		</dict>
+	</array>
+</dict>
+</plist>

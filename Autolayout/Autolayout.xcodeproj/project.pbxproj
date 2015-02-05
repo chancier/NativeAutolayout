@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		740A2EAB1A831FC600BE23A4 /* IPAD-APP服务_1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 740A2EAA1A831FC600BE23A4 /* IPAD-APP服务_1@2x.png */; };
 		741A1AD71A809FEA00F64325 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 741A1AD61A809FEA00F64325 /* main.m */; };
 		741A1ADA1A809FEA00F64325 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 741A1AD91A809FEA00F64325 /* AppDelegate.m */; };
 		741A1ADD1A809FEA00F64325 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 741A1ADC1A809FEA00F64325 /* ViewController.m */; };
@@ -27,6 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		740A2EAA1A831FC600BE23A4 /* IPAD-APP服务_1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "IPAD-APP服务_1@2x.png"; sourceTree = "<group>"; };
 		741A1AD11A809FEA00F64325 /* Autolayout.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Autolayout.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		741A1AD51A809FEA00F64325 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		741A1AD61A809FEA00F64325 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -81,6 +83,7 @@
 		741A1AD31A809FEA00F64325 /* Autolayout */ = {
 			isa = PBXGroup;
 			children = (
+				740A2EAA1A831FC600BE23A4 /* IPAD-APP服务_1@2x.png */,
 				741A1AD81A809FEA00F64325 /* AppDelegate.h */,
 				741A1AD91A809FEA00F64325 /* AppDelegate.m */,
 				741A1ADB1A809FEA00F64325 /* ViewController.h */,
@@ -201,6 +204,7 @@
 			files = (
 				741A1AE01A809FEA00F64325 /* Main.storyboard in Resources */,
 				741A1AE51A809FEA00F64325 /* LaunchScreen.xib in Resources */,
+				740A2EAB1A831FC600BE23A4 /* IPAD-APP服务_1@2x.png in Resources */,
 				741A1AE21A809FEA00F64325 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -414,6 +418,7 @@
 				741A1AF61A809FEB00F64325 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		741A1AF71A809FEB00F64325 /* Build configuration list for PBXNativeTarget "AutolayoutTests" */ = {
 			isa = XCConfigurationList;
@@ -422,6 +427,7 @@
 				741A1AF91A809FEB00F64325 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
